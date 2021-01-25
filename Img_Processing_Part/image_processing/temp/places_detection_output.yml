@@ -1,0 +1,76 @@
+-
+                 id: 0
+                 handicap_list: 1
+                 coordinates: [[484,628],[526,630],[507,512],[467,511]]
+-
+                 id: 1
+                 handicap_list: 1
+                 coordinates: [[440,626],[484,628],[467,511],[426,509]]
+-
+                 id: 2
+                 handicap_list: 1
+                 coordinates: [[348,625],[391,625],[388,509],[349,509]]
+-
+                 id: 3
+                 handicap_list: 1
+                 coordinates: [[305,622],[348,625],[349,509],[310,509]]
+-
+                 id: 4
+                 handicap_list: 1
+                 coordinates: [[257,622],[305,622],[310,509],[270,509]]
+-
+                 id: 5
+                 handicap_list: 1
+                 coordinates: [[182,619],[225,621],[229,509],[187,509]]
+-
+                 id: 6
+                 handicap_list: 1
+                 coordinates: [[140,618],[182,619],[187,509],[144,509]]
+-
+                 id: 7
+                 handicap_list: 1
+                 coordinates: [[97,619],[140,618],[144,509],[101,509]]
+-
+                 id: 8
+                 handicap_list: 1
+                 coordinates: [[594,329],[631,330],[609,236],[575,235]]
+-
+                 id: 9
+                 handicap_list: 1
+                 coordinates: [[558,327],[594,329],[575,235],[540,235]]
+-
+                 id: 10
+                 handicap_list: 1
+                 coordinates: [[522,326],[558,327],[540,235],[509,234]]
+-
+                 id: 11
+                 handicap_list: 0
+                 coordinates: [[424,323],[470,324],[457,232],[414,232]]
+-
+                 id: 12
+                 handicap_list: 1
+                 coordinates: [[315,321],[352,322],[345,231],[311,231]]
+-
+                 id: 13
+                 handicap_list: 1
+                 coordinates: [[280,320],[315,321],[311,231],[276,231]]
+-
+                 id: 14
+                 handicap_list: 1
+                 coordinates: [[244,319],[280,320],[276,231],[241,229]]
+-
+                 id: 15
+                 handicap_list: 1
+                 coordinates: [[208,318],[244,319],[241,229],[207,229]]
+-
+                 id: 16
+                 handicap_list: 1
+                 coordinates: [[172,317],[208,318],[207,229],[173,226]]
+-
+                 id: 17
+                 handicap_list: 1
+                 coordinates: [[136,316],[172,317],[173,226],[139,225]]
+-
+                 id: 18
+                 handicap_list: 1
+                 coordinates: [[100,315],[136,316],[139,225],[105,225]]

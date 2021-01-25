@@ -1,0 +1,78 @@
+{
+    "1": {
+        "free": "True",
+        "disabled": "False"
+  },
+    "2": {
+        "free": "True",
+        "disabled": "False"
+  },
+    "3": {
+        "free": "False",
+        "disabled": "False"
+  },
+    "4": {
+        "free": "True",
+        "disabled": "False"
+  },
+    "5": {
+        "free": "True",
+        "disabled": "False"
+  },
+    "6": {
+        "free": "True",
+        "disabled": "False"
+  },
+    "7": {
+        "free": "False",
+        "disabled": "False"
+  },
+    "8": {
+        "free": "True",
+        "disabled": "False"
+  },
+    "9": {
+        "free": "False",
+        "disabled": "False"
+  },
+    "10": {
+        "free": "True",
+        "disabled": "False"
+  },
+    "11": {
+        "free": "False",
+        "disabled": "False"
+  },
+    "12": {
+        "free": "True",
+        "disabled": "True"
+  },
+    "13": {
+        "free": "False",
+        "disabled": "False"
+  },
+    "14": {
+        "free": "True",
+        "disabled": "False"
+  },
+    "15": {
+        "free": "True",
+        "disabled": "False"
+  },
+    "16": {
+        "free": "False",
+        "disabled": "False"
+  },
+    "17": {
+        "free": "True",
+        "disabled": "False"
+  },
+    "18": {
+        "free": "True",
+        "disabled": "False"
+  },
+    "19": {
+        "free": "True",
+        "disabled": "False"
+  }
+}
